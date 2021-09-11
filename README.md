@@ -7,7 +7,7 @@ Thanks to our great developers for making this website, we are a team of 3 devel
 - Programer - 
 - Polar - Node JS Developer , C# Developer , Batch Developer , HTML & CSS Developer , Owner Of Polar Tools Server
 - Jamesiboi - JavaScript developer, newbie HTML and CSS developer. Founder of Keyzer.
-- Could Be You - DuckyBot Is Hiring, Why not apply?
+- Could Be You - Keyzer Is Hiring, Why not apply?
 
 # Products
 - Keyboards - we have premade keyboards and keyboard kits.
